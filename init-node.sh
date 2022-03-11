@@ -5,3 +5,4 @@ cd ipfs-update
 sudo ./install.sh
 ipfs-update versions
 ipfs-update install latest
+rm -rf ipfs-update_v1.8.0_linux-amd64.tar.gz
